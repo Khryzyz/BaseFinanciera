@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Estilos de los textos usados en la aplicacion-->
+
+    <style name="StyleTextPrimarySmall" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/appColorPrimaryText</item>
+        <item name="android:textSize">@dimen/appTxtSizeSm</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="StyleTextPrimaryMedium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/appColorPrimaryText</item>
+        <item name="android:textSize">@dimen/appTxtSizeMd</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="StyleTextPrimaryLarge" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/appColorPrimaryText</item>
+        <item name="android:textSize">@dimen/appTxtSizeLg</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <!--Estilos de Texto Secundarios App -->
+
+    <style name="StyleTextSecondarySmall" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/appColorSecondaryText</item>
+        <item name="android:textSize">@dimen/appTxtSizeSm</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="StyleTextSecondaryMedium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/appColorSecondaryText</item>
+        <item name="android:textSize">@dimen/appTxtSizeMd</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="StyleTextSecondaryLarge" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/appColorSecondaryText</item>
+        <item name="android:textSize">@dimen/appTxtSizeLg</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <!--Estilos de Texto para el Splash -->
+
+    <style name="StyleTextSplashScreenTitle">
+        <item name="android:textColor">@color/appColorWhite</item>
+        <item name="android:textSize">@dimen/appTxtSizeLg</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="StyleTextSplashScreenInfo">
+        <item name="android:textColor">@color/appColorWhite</item>
+        <item name="android:textSize">@dimen/appTxtSizeXs</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+</resources>

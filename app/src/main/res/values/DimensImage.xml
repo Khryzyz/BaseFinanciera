@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Configuracion dimensiones de las imagenes de la aplicacion -->
+
+    <dimen name="appImgSizeSm">60dp</dimen>
+    <dimen name="appImgSizeMd">90dp</dimen>
+    <dimen name="appImgSizeLg">120dp</dimen>
+
+</resources>

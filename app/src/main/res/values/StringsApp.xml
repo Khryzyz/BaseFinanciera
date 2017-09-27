@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Configuracion textos de la interfaz de la aplicacion -->
+
+    <string name="app_name">Base Financiera</string>
+
+    <string name="splash_title_bienvenida">Bienvenido</string>
+
+    <string name="splash_message_error">Error: %s</string>
+
+    <string name="splash_message_loading">Cargando… Por favor espere un momento…</string>
+    <string name="splash_message_endload">Carga finalizada, por favor espere un momento</string>
+
+    <string name="splash_message_internet_success">Conexión a internet establecida…</string>
+    <string name="splash_message_internet_error">Conexión a internet NO establecida, por  favor verifique y reinice la App.</string>
+
+    <string name="splash_message_nfc_device_success">Conexión al dispositivo NFC establecida…</string>
+    <string name="splash_message_nfc_device_error">Conexión al dispositivo NFC NO establecida, por  favor verifique y reinice la App.</string>
+
+    <string name="splash_message_register_solicitud_success">Solicitud registrada…</string>
+    <string name="splash_message_register_solicitud_error">La solicitud NO se registro correctamente.</string>
+
+    <string name="splash_message_register_internal_success">Registro interno procesado…</string>
+    <string name="splash_message_register_internal_error">El registro interno NO se proceso.</string>
+
+    <string name="splash_message_verify_success">Verificación exitosa</string>
+    <string name="splash_message_verify_error">Verificación fallida</string>
+
+    <string name="splash_message_solicitud_status_stand_by">Su solicitud está a la espera de aprobación</string>
+    <string name="splash_message_solicitud_status_rejected">Su solicitud ha sido rechazada</string>
+    <string name="splash_message_solicitud_status_accepted">Su solicitud ha sido aceptada</string>
+    <string name="splash_message_solicitud_status_error">Su solicitud presenta problemas</string>
+
+</resources>
